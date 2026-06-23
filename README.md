@@ -251,7 +251,7 @@ The current solution provides a foundation for additional business analysis, inc
 
 ### Tables Overview
 
-![Tables Overview](assets/tables-overview.png
+![Tables Overview](assets/tables-overview.png)
 
 ---
 
